@@ -1,0 +1,33 @@
+{"id":"67ddc5f5b19108f1df4dc207","level":"info","message":"Artículo creado","timestamp":"2025-03-21T20:03:01.779Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T20:05:01.020Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T20:35:43.308Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T20:36:03.381Z"}
+{"error":"Inventario validation failed: codigo: Path `codigo` is required., precio_renta: Path `precio_renta` is required., cantidad: Path `cantidad` is required., categoria: Path `categoria` is required.","level":"error","message":"Error creando artículo","timestamp":"2025-03-21T22:48:32.268Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-21T22:50:05.386Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:50:31.779Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:50:47.059Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:50:54.749Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-21T22:51:31.880Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:52:44.152Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-21T22:52:54.244Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:58:28.954Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T22:59:28.752Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T23:01:57.072Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-21T23:01:58.203Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T01:09:37.770Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T01:10:12.976Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T01:22:55.188Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T01:23:47.412Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T01:24:23.018Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T01:29:59.267Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T01:30:03.610Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T01:30:17.216Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T01:37:42.202Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T04:08:13.836Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T04:08:42.929Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T04:10:52.010Z"}
+{"id":"67ddbdf16eb49ee3bc557d67","level":"info","message":"Artículo actualizado","timestamp":"2025-03-22T04:11:00.237Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T04:12:02.231Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T04:12:17.345Z"}
+{"error":"E11000 duplicate key error collection: inventario.inventarios index: codigoQR_1 dup key: { codigoQR: null }","level":"error","message":"Error creando artículo","timestamp":"2025-03-22T04:12:58.377Z"}
+{"level":"info","message":"✅ Artículo con ID 67ddbdf16eb49ee3bc557d67 actualizado a disponible: false","timestamp":"2025-03-22T04:32:37.458Z"}
